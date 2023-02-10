@@ -1,2 +1,6 @@
 #!/bin/bash
-pwd /tmp
+ pwd /tmp
+ cd /var
+ pwd /var
+ source ./10-back/tmp
+ pwd /tmp
